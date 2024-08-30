@@ -1,5 +1,5 @@
 # FormularioCrudBD
-Formulário em Java com Crud integrado a um Banco de Dados. Você poderá adicionar, editar, pesquisar e deletar registros.
+Formulário em Java com Crud integrado a um Banco de Dados. Onde será possível adicionar, editar, pesquisar e deletar registros.
 
 # Como acessar o projeto e rodar ele?
 
